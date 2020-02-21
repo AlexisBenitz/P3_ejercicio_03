@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1582218781 source:c:\users\parac\onedrive\documentos\poo\primer parcial\p3_ejercicio_03\punto.cpp
+	<iostream>
+	"punto.h"
+
+1582218781 c:\users\parac\onedrive\documentos\poo\primer parcial\p3_ejercicio_03\punto.h
+
+1582236958 source:c:\users\parac\onedrive\documentos\poo\primer parcial\p3_ejercicio_03\main.cpp
+	<iostream>
+	"punto.h"
+	"pentagono.h"
+
+1582219354 c:\users\parac\onedrive\documentos\poo\primer parcial\p3_ejercicio_03\pentagono.h
+	<iostream>
+	<cmath>
+	"punto.h"
+
